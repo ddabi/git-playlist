@@ -6,3 +6,4 @@
 
 - [AJR - The Maybe Man](the-maybe-man/README.md)
 
+- [Red Velvet - Chill Kill](chill-kill/README.md)
